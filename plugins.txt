@@ -10,8 +10,6 @@
 *FOVSlider.esl
 *SS2.esm
 *SS2_XPAC_Chapter2.esm
-*UltracitePA.esl
-*G11.esl
 *HoloDisplay.esl
 *hologramtable.esl
 *IceStormsHeavyMetalBoots.esl
@@ -26,7 +24,6 @@
 *PANPC.esm
 *PRCH.esl
 *Quick_Change_Armor_by_tooun.esl
-*RedShiftPowerArmor.esl
 *say LEVEL UP in English.esl
 *ShieldFramework.esm
 *Straw_GeordisVisor.esl
@@ -36,6 +33,11 @@
 *VotWSpecialVideos.esl
 *FaceLight.esl
 *Quick_Modification_Weapon_by_tooun.esl
+*CWPointLookoutFO4.esm
+*UltracitePA.esl
+*G11.esl
+*RedShiftPowerArmor.esl
+*CWPointLookoutFO4Patch.esl
 *00-CyberBreathingMask.esp
 *155mm Howitzer M1.esp
 *256StandaloneHairColors.esp
@@ -78,6 +80,7 @@
 *llamaCompanionHeatherv2.esp
 *BH_MCX_Spear.esp
 *LeeEnfieldNo4MkI.esp
+*CHAOTIC SUN.esp
 *SteyrAUGnv.esp
 *3dscopes-aug.esp
 *3dscopes-fnfal.esp
@@ -328,6 +331,7 @@
 *Improved - Animated Accessible Backpack.esp
 *AnV Camo Backpacks.esp
 *FFO-NAC Patch.esp
+*NACskintonefix.esp
 *EnhancedLightsandFX.esp
 *Pip-Boy Flashlight.esp
 *PIP-Pad_Pip-BoyFlashlight.esp

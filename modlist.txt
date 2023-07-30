@@ -149,6 +149,9 @@
 +Canary Save File Monitor
 -BodySlide and Outfit Studio
 +Tools_separator
++BlueArchive_Nendo
++Anime Framework - Add-on Collection
++Anime Framework
 +Workshop Framework
 +WCP - Transfer Items
 +WCP - Settlement Budget
@@ -173,6 +176,8 @@
 +BAM - Better Armory Mod
 +155mm Howitzer M1
 +Workstation_separator
++Nier's cosplay outfit v1.0
++COCO - 2B Wedding
 +Wearable Camo Backpacks - 1.0
 +Backpacks of the Commonwealth
 +World Wide Mercenary Gear Pack
@@ -461,9 +466,9 @@
 +AnimeRace Companion Curie
 +AnimeRace Companion Cait
 +AnimeRace_separator
++Kill Tips and Hit Sound (Remastered)
 +Q.M.W(Quick Modification Weapon) ESL file
 +Tactical Action Extension Package (Beta)
-+Kill Tips and Hit Sound(ESL file)Remastered-41557-2022-2-2-1643792324
 +AX50(Optional file).Console FOV90.Patch.Data
 +AX50(tooun's).SE.v1.33.Main.EN.data
 +[ammoUI]user_Profile.Presets.007.Data
@@ -499,6 +504,8 @@
 +ENBLightsHDRPatch.7z
 +ENB Helper for Fallout 4
 -ENB_separator
++Base Object Swapper
++Baka Framework
 +NVIDIA Reflex Support
 +MCM Booster
 +Mod Configuration Menu 1.39

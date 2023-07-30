@@ -11,12 +11,11 @@ ArmorKeywords.esm
 HUDFramework.esm
 WorkshopFramework.esm
 XDI.esm
+BakaFramework.esm
 ammoUI_by_tooun.esl
 AORobcoReconScope.esl
 CanarySaveFileMonitor.esl
 FOVSlider.esl
-SS2.esm
-SS2_XPAC_Chapter2.esm
 HoloDisplay.esl
 hologramtable.esl
 IceStormsHeavyMetalBoots.esl
@@ -24,7 +23,6 @@ IllumBillboardsAIO.esl
 Immersive_Molotovs_FlamerESL.esl
 Inspectweapons.esl
 jags78_UtilityBelt.esl
-KillTips_by_tooun.esl
 LMNSOverlays.esl
 M84FlashBang.esl
 NPCScaling.esm
@@ -40,11 +38,16 @@ VotWMaster.esm
 VotWSpecialVideos.esl
 FaceLight.esl
 Quick_Modification_Weapon_by_tooun.esl
+AnimeFramework.esm
+SS2.esm
+SS2_XPAC_Chapter2.esm
+COCO 2B Wedding.esl
 CWPointLookoutFO4.esm
 UltracitePA.esl
 G11.esl
 RedShiftPowerArmor.esl
 CWPointLookoutFO4Patch.esl
+KillTips_by_tooun.esl
 00-CyberBreathingMask.esp
 155mm Howitzer M1.esp
 256StandaloneHairColors.esp
@@ -338,7 +341,9 @@ PhotoLight.esp
 Improved - Animated Accessible Backpack.esp
 AnV Camo Backpacks.esp
 FFO-NAC Patch.esp
+BlueArchive_Nendo.esp
 NACskintonefix.esp
+Nier.esp
 EnhancedLightsandFX.esp
 Pip-Boy Flashlight.esp
 PIP-Pad_Pip-BoyFlashlight.esp

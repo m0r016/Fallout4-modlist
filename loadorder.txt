@@ -344,6 +344,7 @@ FFO-NAC Patch.esp
 BlueArchive_Nendo.esp
 NACskintonefix.esp
 Nier.esp
+SimpleImpact.esp
 EnhancedLightsandFX.esp
 Pip-Boy Flashlight.esp
 PIP-Pad_Pip-BoyFlashlight.esp

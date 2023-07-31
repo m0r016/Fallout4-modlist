@@ -466,6 +466,7 @@
 +AnimeRace Companion Curie
 +AnimeRace Companion Cait
 +AnimeRace_separator
++1_BPM Mini UI-41557-2-2-1585582830
 +Kill Tips and Hit Sound (Remastered)
 +Q.M.W(Quick Modification Weapon) ESL file
 +Tactical Action Extension Package (Beta)
@@ -504,6 +505,7 @@
 +ENBLightsHDRPatch.7z
 +ENB Helper for Fallout 4
 -ENB_separator
++Simple Impact
 +Base Object Swapper
 +Baka Framework
 +NVIDIA Reflex Support

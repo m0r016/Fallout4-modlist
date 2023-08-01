@@ -149,8 +149,9 @@
 +Canary Save File Monitor
 -BodySlide and Outfit Studio
 +Tools_separator
-+BlueArchive_Nendo
++Workshop Menu Fixer
 +Anime Framework - Add-on Collection
++BlueArchive_Nendo
 +Anime Framework
 +Workshop Framework
 +WCP - Transfer Items
@@ -175,7 +176,7 @@
 +Better Junk Fences
 +BAM - Better Armory Mod
 +155mm Howitzer M1
-+Workstation_separator
++Workshop_separator
 +Nier's cosplay outfit v1.0
 +COCO - 2B Wedding
 +Wearable Camo Backpacks - 1.0

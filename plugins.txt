@@ -41,6 +41,28 @@
 *RedShiftPowerArmor.esl
 *CWPointLookoutFO4Patch.esl
 *KillTips_by_tooun.esl
+*AnimeFramework_DLC01_02.esl
+*AnimeFramework_DLC01_03.esl
+*AnimeFramework_DLC02_01.esl
+*AnimeFramework_DLC02_02.esl
+*AnimeFramework_DLC02_03.esl
+*AnimeFramework_DLC03_01.esl
+*AnimeFramework_DLC03_03.esl
+*AnimeFramework_DLC04_01.esl
+*AnimeFramework_DLC04_02.esl
+*AnimeFramework_DLC05.esm
+*AnimeFramework_DLC06_01.esl
+*AnimeFramework_DLC06_02.esl
+*AnimeFramework_DLC07_01.esl
+*AnimeFramework_DLC07_02.esl
+*AnimeFramework_DLC08_02.esl
+*AnimeFramework_DLC08_05.esl
+*AnimeFramework_DLC09_02.esl
+*AnimeFramework_DLC10_01.esl
+*AnimeFramework_DLC11_02.esl
+*AnimeFramework_DLC12_01.esl
+*AnimeFramework_DLC13_02.esl
+*AnimeFramework_DLC14_02.esl
 *00-CyberBreathingMask.esp
 *155mm Howitzer M1.esp
 *256StandaloneHairColors.esp
@@ -338,6 +360,8 @@
 *NACskintonefix.esp
 *Nier.esp
 *SimpleImpact.esp
+*WorkshopMenuFixer.esp
+*AnimeFramework_DLC03_04.esp
 *EnhancedLightsandFX.esp
 *Pip-Boy Flashlight.esp
 *PIP-Pad_Pip-BoyFlashlight.esp

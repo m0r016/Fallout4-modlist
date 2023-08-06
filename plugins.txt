@@ -63,6 +63,9 @@
 *AnimeFramework_DLC12_01.esl
 *AnimeFramework_DLC13_02.esl
 *AnimeFramework_DLC14_02.esl
+*NAC.esp
+*ValdacilsItemSorting-00-ValsPicks-DLCVersion-VanillaWeight.esp
+*Burst Impact Blast FX.esp
 *00-CyberBreathingMask.esp
 *155mm Howitzer M1.esp
 *256StandaloneHairColors.esp
@@ -77,12 +80,10 @@
 *SS2Extended.esp
 *CombatZoneRestored.esp
 *AA FusionCityRising.esp
-*ValdacilsItemSorting-00-ValsPicks-NoDLCVersion-VanillaWeight.esp
 *More Power Armour Mods.esp
 *Thuggysmurf_Optimization.esp
 *Power Armor to the People.esp
 *Reverb and Ambiance Overhaul.esp
-*NAC.esp
 *FO4ParticlePatch.esp
 *Fog Remover II (AIO) Recommended.esp
 *Diverse Cats.esp
@@ -92,6 +93,8 @@
 *Skb_RiflesRebirth.esp
 *M2_Flamethrower_2.2.esp
 *NACXWaterFix.esp
+*PlayerComments_UFO4P_Patch.esp
+*DualSurvivors.esp
 *AER15.esp
 *Power Armor to the People - Ultracite Power Armor.esp
 *T-51C Power Armor.esp
@@ -114,13 +117,16 @@
 *RU556.esp
 *MilitarizedMinutemen.esp
 *AK400.esp
-*Burst Impact Blast FX.esp
 *DX_Banshee_Recon_Armor.esp
 *EpilogueRestored.esp
 *ExcavatorPA.esp
-*FnScar.esp
+*Gatling Laser Overhaul.esp
 *MP7.esp
 *SG550.esp
+*VIS-Fallout4_GOTY.esp
+*AnimChemRedux.esp
+*Follower Revive System.esp
+*FnScar.esp
 *InstitutePowerArmor.esp
 *Power Armor to the People - Institute Power Armor.esp
 *G3Family.esp
@@ -136,8 +142,6 @@
 *SV-98.esp
 *3dscopes-sv98.esp
 *[ETH]ShieldIntegrationProject.esp
-*AnimChemRedux.esp
-*Follower Revive System.esp
 *AnimeRace_Nanako.esp
 *KSHairdos.esp
 *CBBE.esp
@@ -203,7 +207,6 @@
 *FO4HHS.esp
 *G36Complex.esp
 *GammaRepeater.esp
-*Gatling Laser Overhaul.esp
 *GatlingLaserAmmoImprovement.esp
 *GIAT_FAMAS.esp
 *Glock19x.esp
@@ -268,7 +271,6 @@
 *PhotoMode.esp
 *PIP-Pad_LMCC.esp
 *PlayerComments_CZRPatch.esp
-*PlayerComments_UFO4P_Patch.esp
 *PlutoniumCreatures.esp
 *PMC Operators Pack.esp
 *Pop Team Epic FO4.esp
@@ -362,6 +364,13 @@
 *SimpleImpact.esp
 *WorkshopMenuFixer.esp
 *AnimeFramework_DLC03_04.esp
+*VIS-LeeEnfield.esp
+*VIS-MCX_Virtus.esp
+*VIS-MK18.esp
+*VIS-MP7.esp
+*VIS-QBZ.esp
+*VIS-RPG7.esp
+*Fashionable Valentine.esp
 *EnhancedLightsandFX.esp
 *Pip-Boy Flashlight.esp
 *PIP-Pad_Pip-BoyFlashlight.esp

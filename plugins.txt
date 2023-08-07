@@ -31,11 +31,13 @@
 *VotWSpecialVideos.esl
 *FaceLight.esl
 *Quick_Modification_Weapon_by_tooun.esl
+*JonsMod.esm
 *AnimeFramework.esm
 *SS2.esm
 *SS2_XPAC_Chapter2.esm
 *COCO 2B Wedding.esl
 *CWPointLookoutFO4.esm
+*TheSewers.esm
 *UltracitePA.esl
 *G11.esl
 *RedShiftPowerArmor.esl
@@ -63,6 +65,9 @@
 *AnimeFramework_DLC12_01.esl
 *AnimeFramework_DLC13_02.esl
 *AnimeFramework_DLC14_02.esl
+*NPCScaling - Encounter Zones.esl
+*UniversalDisassembler.esl
+*mdTorsoExplodeFix.esl
 *NAC.esp
 *ValdacilsItemSorting-00-ValsPicks-DLCVersion-VanillaWeight.esp
 *Burst Impact Blast FX.esp
@@ -75,6 +80,7 @@
 *ENBLightsHDRPatch.esp
 *subwayrunnnernodynamic.esp
 *OutcastsAndRemnants.esp
+*NPCScaling - Actors.esp
 *Betterautomatronweaponsandbots.esp
 *PlayerComments_PiperCaitCurieDialogueOverhaul_Patch.esp
 *SS2Extended.esp
@@ -123,7 +129,6 @@
 *Gatling Laser Overhaul.esp
 *MP7.esp
 *SG550.esp
-*VIS-Fallout4_GOTY.esp
 *AnimChemRedux.esp
 *Follower Revive System.esp
 *FnScar.esp
@@ -199,6 +204,7 @@
 *EnclaveX02.esp
 *Project Reality Footsteps FO4.esp
 *Enemy Footstep Overhaul.esp
+*Zapgun.esp
 *Escape from Boston - M200 Intervention.esp
 *Escape from Boston - Springfield M14.esp
 *ESPExplorerFO4.esp
@@ -357,7 +363,6 @@
 *PhotoLight.esp
 *Improved - Animated Accessible Backpack.esp
 *AnV Camo Backpacks.esp
-*FFO-NAC Patch.esp
 *BlueArchive_Nendo.esp
 *NACskintonefix.esp
 *Nier.esp
@@ -371,6 +376,16 @@
 *VIS-QBZ.esp
 *VIS-RPG7.esp
 *Fashionable Valentine.esp
+*NACX-Realistic Wind Patch.esp
+*YouAndWhatArmy.esp
+*YAWA_NPCS_Patch.esp
+*UniversalDisassembler-VIS.esp
+*T-51.C Advanced Computer System 2.0.esp
+*KSHairsFemsheppingRadbeetle.esp
+*Vivid Fallout - LOD.esp
+*PosesForThePeople.esp
+*VIS-Fallout4_GOTY.esp
+*lilia.esp
 *EnhancedLightsandFX.esp
 *Pip-Boy Flashlight.esp
 *PIP-Pad_Pip-BoyFlashlight.esp

@@ -65,9 +65,9 @@
 *AnimeFramework_DLC12_01.esl
 *AnimeFramework_DLC13_02.esl
 *AnimeFramework_DLC14_02.esl
-*NPCScaling - Encounter Zones.esl
 *UniversalDisassembler.esl
 *mdTorsoExplodeFix.esl
+*NPCScaling - Encounter Zones.esl
 *NAC.esp
 *ValdacilsItemSorting-00-ValsPicks-DLCVersion-VanillaWeight.esp
 *Burst Impact Blast FX.esp
@@ -77,12 +77,13 @@
 *PlayerComments.esp
 *PiperCaitCurieDialogueOverhaul.esp
 *UltraInteriorLighting.esp
+*PlayerComments_PiperCaitCurieDialogueOverhaul_Patch.esp
+*Northern Springs-expansion project.esp
 *ENBLightsHDRPatch.esp
 *subwayrunnnernodynamic.esp
 *OutcastsAndRemnants.esp
 *NPCScaling - Actors.esp
 *Betterautomatronweaponsandbots.esp
-*PlayerComments_PiperCaitCurieDialogueOverhaul_Patch.esp
 *SS2Extended.esp
 *CombatZoneRestored.esp
 *AA FusionCityRising.esp
@@ -277,7 +278,6 @@
 *PhotoMode.esp
 *PIP-Pad_LMCC.esp
 *PlayerComments_CZRPatch.esp
-*PlutoniumCreatures.esp
 *PMC Operators Pack.esp
 *Pop Team Epic FO4.esp
 *Power Armor to the People - Enclave X-02.esp
@@ -337,11 +337,9 @@
 *Weapon Mods Mod.esp
 *WheelMenu.esp
 *WWM Gear Pack.esp
-*XM2010_SniperRifle_by_tooun.esp
-*XM2010_SniperRifle_STS.esp
-*XM2010_SniperRifle_STS_FOV90.esp
 *Zenit.esp
 *Rusty Face Fix.esp
+*XM2010_SniperRifle_by_tooun.esp
 *XM2010_SniperRifle_TR_patch.esp
 *QBZ191_TR_patch.esp
 *Glock19x - Race Subgraph Data.esp
@@ -377,6 +375,7 @@
 *VIS-RPG7.esp
 *Fashionable Valentine.esp
 *NACX-Realistic Wind Patch.esp
+*VIS-Fallout4_GOTY.esp
 *YouAndWhatArmy.esp
 *YAWA_NPCS_Patch.esp
 *UniversalDisassembler-VIS.esp
@@ -384,8 +383,12 @@
 *KSHairsFemsheppingRadbeetle.esp
 *Vivid Fallout - LOD.esp
 *PosesForThePeople.esp
-*VIS-Fallout4_GOTY.esp
 *lilia.esp
+*sailor.esp
+*uniform.esp
+*FOrigin12.esp
+*XM2010_SniperRifle_STS.esp
+*XM2010_SniperRifle_STS_FOV90.esp
 *EnhancedLightsandFX.esp
 *Pip-Boy Flashlight.esp
 *PIP-Pad_Pip-BoyFlashlight.esp

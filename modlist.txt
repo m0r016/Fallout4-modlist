@@ -294,7 +294,7 @@
 +SM More Weapon Anims - All Dlc
 +SKKCombatStalkers_021
 +Skip HSH
-+Simple Artillery Strikes - 1.0
+-Simple Artillery Strikes - 1.0
 +random concept art loading screen
 +Provisioner and Supply Line Management System
 +Oni hair re-texture new color new alpha

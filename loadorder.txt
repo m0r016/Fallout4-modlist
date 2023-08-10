@@ -137,6 +137,7 @@ ExcavatorPA.esp
 Gatling Laser Overhaul.esp
 MP7.esp
 SG550.esp
+VIS-Fallout4_GOTY.esp
 AnimChemRedux.esp
 Follower Revive System.esp
 FnScar.esp
@@ -315,7 +316,6 @@ SettlementMenuManager.esp
 ShellRain.esp
 ShieldTactics.esp
 ShootingTarget.esp
-Simple Artillery Strikes.esp
 SkipHSH1_6.esp
 SKKCombatStalkers.esp
 SM More Weapon Anims - All Dlc.esp
@@ -382,7 +382,6 @@ VIS-QBZ.esp
 VIS-RPG7.esp
 Fashionable Valentine.esp
 NACX-Realistic Wind Patch.esp
-VIS-Fallout4_GOTY.esp
 YouAndWhatArmy.esp
 YAWA_NPCS_Patch.esp
 UniversalDisassembler-VIS.esp
@@ -396,6 +395,8 @@ uniform.esp
 FOrigin12.esp
 XM2010_SniperRifle_STS.esp
 XM2010_SniperRifle_STS_FOV90.esp
+ArtilleryFlare.esp
+NuclearQuickfire.esp
 EnhancedLightsandFX.esp
 Pip-Boy Flashlight.esp
 PIP-Pad_Pip-BoyFlashlight.esp

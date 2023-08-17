@@ -33,9 +33,10 @@
 *Quick_Modification_Weapon_by_tooun.esl
 *JonsMod.esm
 *AnimeFramework.esm
+*COCO 2B Wedding.esl
 *SS2.esm
 *SS2_XPAC_Chapter2.esm
-*COCO 2B Wedding.esl
+*SS2_XPAC_Chapter3.esm
 *CWPointLookoutFO4.esm
 *TheSewers.esm
 *UltracitePA.esl
@@ -68,6 +69,7 @@
 *UniversalDisassembler.esl
 *mdTorsoExplodeFix.esl
 *NPCScaling - Encounter Zones.esl
+*BakaPowerArmorStorage.esm
 *NAC.esp
 *ValdacilsItemSorting-00-ValsPicks-DLCVersion-VanillaWeight.esp
 *Burst Impact Blast FX.esp
@@ -81,11 +83,10 @@
 *Northern Springs-expansion project.esp
 *ENBLightsHDRPatch.esp
 *subwayrunnnernodynamic.esp
+*SS2Extended.esp
 *OutcastsAndRemnants.esp
 *NPCScaling - Actors.esp
 *Betterautomatronweaponsandbots.esp
-*SS2Extended.esp
-*CombatZoneRestored.esp
 *AA FusionCityRising.esp
 *More Power Armour Mods.esp
 *Thuggysmurf_Optimization.esp
@@ -98,9 +99,11 @@
 *Home Plate Improvements.esp
 *Backpacks of the Commonwealth.esp
 *Skb_RiflesRebirth.esp
+*PlayerComments_UFO4P_Patch.esp
+*LOST Audio Tweaks.esp
+*Dank_LEO.esp
 *M2_Flamethrower_2.2.esp
 *NACXWaterFix.esp
-*PlayerComments_UFO4P_Patch.esp
 *DualSurvivors.esp
 *AER15.esp
 *Power Armor to the People - Ultracite Power Armor.esp
@@ -165,7 +168,6 @@
 *APC9_LeveledListPatch.esp
 *ar15_family.esp
 *ARESAppleseed.esp
-*LOST Audio Tweaks.esp
 *AX50_by_tooun.esp
 *AX50_by_tooun_FOV90.esp
 *BAM-BetterArmoryMod.esp
@@ -204,7 +206,6 @@
 *Elzee Have a Seat.esp
 *EnclaveX02.esp
 *Project Reality Footsteps FO4.esp
-*Enemy Footstep Overhaul.esp
 *Zapgun.esp
 *Escape from Boston - M200 Intervention.esp
 *Escape from Boston - Springfield M14.esp
@@ -277,12 +278,10 @@
 *PD_Vreload_m249.esp
 *PhotoMode.esp
 *PIP-Pad_LMCC.esp
-*PlayerComments_CZRPatch.esp
 *PMC Operators Pack.esp
 *Pop Team Epic FO4.esp
 *Power Armor to the People - Enclave X-02.esp
 *Power Armor to the People - Excavator Power Armor.esp
-*Power Armor to the People - Far Harbor.esp
 *Power Armor to the People - Hellfire X-03.esp
 *PowerPacks.esp
 *Python2.esp
@@ -375,7 +374,6 @@
 *Fashionable Valentine.esp
 *NACX-Realistic Wind Patch.esp
 *YouAndWhatArmy.esp
-*VIS-Fallout4_GOTY.esp
 *YAWA_NPCS_Patch.esp
 *UniversalDisassembler-VIS.esp
 *T-51.C Advanced Computer System 2.0.esp
@@ -390,8 +388,34 @@
 *XM2010_SniperRifle_STS_FOV90.esp
 *ArtilleryFlare.esp
 *NuclearQuickfire.esp
+*PlutoniumCreatures.esp
+*GF2.esp
+*misaki.esp
+*Nemesis_662.esp
+*NIKKE_662.esp
+*QUQU Uniform.esp
+*GF2 662.esp
+*EVA Rei&Asuka.esp
+*Aether Gazer Tiangou_662.esp
+*Celest_jacket.esp
+*Chole.esp
+*slitsuit_662.esp
+*baller_662.esp
+*Miku race.esp
+*Aki&Mika.esp
+*tolass.esp
+*NONE - Ballistic Weave Overhaul VIS.esp
+*Dank_LEO-Automatron.esp
+*Dank_LEO_DLCCoast.esp
+*Power Armor to the People - Far Harbor.esp
+*Dank_LEO_DLCNukaWorld.esp
+*Bottle Crate Furniture.esp
+*StaticObjectDecorator.esp
+*Weapon Brackets.esp
 *EnhancedLightsandFX.esp
 *Pip-Boy Flashlight.esp
 *PIP-Pad_Pip-BoyFlashlight.esp
+*VIS-Fallout4_GOTY.esp
 *X-02 PipboyLight Patch.esp
+*WorkshopFramework_ScriptOverride.esp
 *InteriorsEnhanced-All-In-One.esp

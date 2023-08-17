@@ -134,7 +134,7 @@
 +Vermillion Frost - Former Enclave General
 +Companions_separator
 +Vivid Fallout - LOD and Far Distant Detail
-+Ammo Retexture
+-Ammo Retexture
 +Rusty Face Fix
 +z All In One
 +XL_BetterFakeReflections
@@ -364,6 +364,9 @@
 +High FPS Physics Fix
 +Unlimited Survival Mode - F4SE
 +Patch_separator
++Armament - Burst Blast Impact FX Combo Patch
++Armament - Ammunition and Ballistics Overhaul
+-Ammo_separator
 +Fostech Origin 12
 +The Zap Gun - a makeshift laser weapon
 +[Colt Python]XPR and Python 1.3 Main File Archive Fixed

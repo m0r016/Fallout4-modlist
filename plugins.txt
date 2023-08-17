@@ -72,7 +72,6 @@
 *BakaPowerArmorStorage.esm
 *NAC.esp
 *ValdacilsItemSorting-00-ValsPicks-DLCVersion-VanillaWeight.esp
-*Burst Impact Blast FX.esp
 *00-CyberBreathingMask.esp
 *155mm Howitzer M1.esp
 *256StandaloneHairColors.esp
@@ -133,6 +132,9 @@
 *Gatling Laser Overhaul.esp
 *MP7.esp
 *SG550.esp
+*Armament.esp
+*Burst Impact Blast FX.esp
+*Armament+BurstImpactBlastFX Combo Patch.esp
 *AnimChemRedux.esp
 *Follower Revive System.esp
 *FnScar.esp
@@ -414,8 +416,8 @@
 *Weapon Brackets.esp
 *EnhancedLightsandFX.esp
 *Pip-Boy Flashlight.esp
-*PIP-Pad_Pip-BoyFlashlight.esp
 *VIS-Fallout4_GOTY.esp
-*X-02 PipboyLight Patch.esp
 *WorkshopFramework_ScriptOverride.esp
+*PIP-Pad_Pip-BoyFlashlight.esp
+*X-02 PipboyLight Patch.esp
 *InteriorsEnhanced-All-In-One.esp

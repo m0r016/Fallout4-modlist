@@ -96,6 +96,7 @@
 *Diverse Cats.esp
 *AmazingFollowerTweaks.esp
 *Home Plate Improvements.esp
+*Gas Masks of the Wasteland.esp
 *Backpacks of the Commonwealth.esp
 *Skb_RiflesRebirth.esp
 *PlayerComments_UFO4P_Patch.esp
@@ -129,9 +130,12 @@
 *DX_Banshee_Recon_Armor.esp
 *EpilogueRestored.esp
 *ExcavatorPA.esp
-*Gatling Laser Overhaul.esp
 *MP7.esp
 *SG550.esp
+*Dank_ArmorOverrides.esp
+*EAMR.esp
+*StoreYourKeys.esp
+*Gatling Laser Overhaul.esp
 *Armament.esp
 *Burst Impact Blast FX.esp
 *Armament+BurstImpactBlastFX Combo Patch.esp
@@ -189,7 +193,6 @@
 *CriticalHitsOutsideofVATS.esp
 *CROSS_GoreCrits.esp
 *CROSS_GoreCrits_FarHarborPatch.esp
-*Dank_ArmorOverrides.esp
 *Dank_ArmorOverrides_DLCCoast.esp
 *Dank_ArmorOverrides_DLCNukaWorld.esp
 *Dank_ArmorOverrides_DLCRobot.esp
@@ -203,7 +206,6 @@
 *dinoshelf.esp
 *DSShipmentBaron.esp
 *DYNAVISION.esp
-*EAMR.esp
 *Elzee Breathe.esp
 *Elzee Have a Seat.esp
 *EnclaveX02.esp
@@ -315,7 +317,6 @@
 *SS2_DLCSettlerPatch.esp
 *SS2_MagnussonTerminalFix.esp
 *SS2_XDI Patch.esp
-*StoreYourKeys.esp
 *Suit Up.esp
 *SunLightAlignment.esp
 *Tactical Combat Swimwear.esp
@@ -367,14 +368,7 @@
 *SimpleImpact.esp
 *WorkshopMenuFixer.esp
 *AnimeFramework_DLC03_04.esp
-*VIS-LeeEnfield.esp
-*VIS-MCX_Virtus.esp
-*VIS-MK18.esp
-*VIS-MP7.esp
-*VIS-QBZ.esp
-*VIS-RPG7.esp
 *Fashionable Valentine.esp
-*NACX-Realistic Wind Patch.esp
 *YouAndWhatArmy.esp
 *YAWA_NPCS_Patch.esp
 *UniversalDisassembler-VIS.esp
@@ -414,10 +408,36 @@
 *Bottle Crate Furniture.esp
 *StaticObjectDecorator.esp
 *Weapon Brackets.esp
+*VtawWardrobe6.esp
+*PKMnv.esp
+*casingedits.esp
+*NoRandomGunShellEjectDirection.esp
+*PKMnv_NoEWS.esp
+*Post Apocalyptic Survivor Outfit.esp
+*VIS-PKMnv.esp
+*VIS-LeeEnfield.esp
+*VIS-AnimeFramework.esp
+*VIS-CHAOTIC_SUN.esp
+*VIS-CWPointLookoutFO4.esp
+*VIS-MCX_Virtus.esp
+*VIS-MK18.esp
+*VIS-MP5.esp
+*VIS-MP7.esp
+*VIS-Northern_Springs_expansion_project.esp
+*VIS-QBZ.esp
+*VIS-RPG7.esp
+*VIS-llamaCompanionHeatherv2.esp
+*VIS-BH_MCX_Spear.esp
+*Armament-BH_MCX_Spear.esp
+*Armament-PKMnv.esp
+*NAC-2287.esp
+*NACX-Realistic Wind Patch.esp
+*Universal Gas Masks.esp
 *EnhancedLightsandFX.esp
 *Pip-Boy Flashlight.esp
-*VIS-Fallout4_GOTY.esp
-*WorkshopFramework_ScriptOverride.esp
+*VIS-Armament.esp
 *PIP-Pad_Pip-BoyFlashlight.esp
+*VIS-Fallout4_GOTY.esp
 *X-02 PipboyLight Patch.esp
+*WorkshopFramework_ScriptOverride.esp
 *InteriorsEnhanced-All-In-One.esp

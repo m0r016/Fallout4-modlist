@@ -8,16 +8,19 @@ DLCworkshop03.esm
 DLCNukaWorld.esm
 XDI.esm
 ArmorKeywords.esm
+HUDFramework.esm
 ammoUI_by_tooun.esl
 Arbitration - Resources.esm
 Inspectweapons.esl
-KillTips_by_tooun.esl
 Quick_Change_Armor_by_tooun.esl
 TacticalReload.esm
 tooun_Animationpack.esl
 say LEVEL UP in English.esl
+Quick_Modification_Weapon_by_tooun.esl
 3dscopes-aug.esp
 3dscopes-fnfal.esp
+ValdacilsItemSorting-00-ValsPicks-DLCVersion-VanillaWeight.esp
+NAC.esp
 Burst Impact Blast FX.esp
 3dscopes-g3family.esp
 3dscopes-leeenfield.esp
@@ -29,8 +32,6 @@ Burst Impact Blast FX.esp
 3dscopes-sv98.esp
 Bullet in the Chamber.esp
 Arbitration - Button Lowered Weapons - Auto Raise from Cover.esp
-AX50_by_tooun.esp
-AX50_by_tooun_FOV90.esp
 SideAim.esp
 BulletParty.esp
 Glock19x - Race Subgraph Data.esp
@@ -61,6 +62,13 @@ AnimeRace_NanakoEyes1.esp
 FO4HHS.esp
 KSHairdos_oel.esp
 ScreenArcherMenu.esp
-HUDFramework.esm
-ValdacilsItemSorting-00-ValsPicks-NoDLCVersion-VanillaWeight.esp
-Quick_Modification_Weapon_by_tooun.esl
+WheelMenu.esp
+AX50_by_tooun.esp
+AX50_by_tooun_FOV90.esp
+Gas Masks of the Wasteland.esp
+NAC-2287.esp
+NAC-FH.esp
+NAC-NW.esp
+NACXWaterFix.esp
+NACskintonefix.esp
+NACX-Realistic Wind Patch.esp

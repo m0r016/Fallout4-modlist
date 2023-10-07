@@ -10,7 +10,6 @@ XDI.esm
 ArmorKeywords.esm
 HUDFramework.esm
 ammoUI_by_tooun.esl
-Arbitration - Resources.esm
 Inspectweapons.esl
 Quick_Change_Armor_by_tooun.esl
 TacticalReload.esm
@@ -30,13 +29,10 @@ Burst Impact Blast FX.esp
 3dscopes-robcorecon.esp
 3dscopes-ru556.esp
 3dscopes-sv98.esp
-Bullet in the Chamber.esp
-Arbitration - Button Lowered Weapons - Auto Raise from Cover.esp
 SideAim.esp
 BulletParty.esp
 Glock19x - Race Subgraph Data.esp
 HK_MP5 - Race Subgraph Data.esp
-Howa TR Patch.esp
 HsProduktVhs2 - Race Subgraph Data.esp
 M1A - Race Subgraph Data.esp
 M1Garand-RaceSubgraph.esp
@@ -57,7 +53,6 @@ CapsWidget.esp
 CBBE.esp
 LooksMenu.esp
 512StandaloneHairColors.esp
-AnimeRace_Nanako.esp
 AnimeRace_NanakoEyes1.esp
 FO4HHS.esp
 KSHairdos_oel.esp
